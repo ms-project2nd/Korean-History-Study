@@ -86,7 +86,17 @@ npm start
 
 ---
 
+
+![image](https://github.com/user-attachments/assets/3125fb28-ef8e-4a19-bd3e-e892216d0c6c)
+
+
+
+
 ## 📊 성능 평가 요약
+
+
+![image](https://github.com/user-attachments/assets/8e6ece50-af80-4f4e-bea4-286e1f8a617a)
+
 
 - **요약 모델 (ROUGE-L F1)**: 평균 0.68  
 - **문제 생성 정확도 (정답 일치율)**: 약 70%  
