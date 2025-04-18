@@ -1,4 +1,4 @@
-# 🇰🇷 한국史記꾼 (Hanguk Sagi-kkun) - React 프론트엔드
+# 한국史記꾼 (Hanguk Sagi-kkun) - React 프론트엔드
 
 AI 기반 맞춤형 한국사 학습 플랫폼  
 **필기 이미지 → 요약 → 음성 → 퀴즈 → 오답노트까지!**
