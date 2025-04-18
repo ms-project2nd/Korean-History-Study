@@ -8,6 +8,14 @@ AI 기반 **맞춤형 한국사 학습 플랫폼**
 
 ---
 
+
+
+![image](https://github.com/user-attachments/assets/d34d7d52-f9bb-4f1f-9431-76d6bf379066)
+
+
+
+
+
 ## 📌 프로젝트 개요
 
 **한국史記꾼**은 한국사능력검정시험 수험생과 직장인 학습자를 위한  
